@@ -1,0 +1,9 @@
+c:\users\djabon\documents\visual studio 2012\Projects\String_Splitting_Tool\String_Splitting_Tool\bin\Debug\String_Splitting_Tool.exe.config
+c:\users\djabon\documents\visual studio 2012\Projects\String_Splitting_Tool\String_Splitting_Tool\bin\Debug\String_Splitting_Tool.exe
+c:\users\djabon\documents\visual studio 2012\Projects\String_Splitting_Tool\String_Splitting_Tool\bin\Debug\String_Splitting_Tool.pdb
+c:\users\djabon\documents\visual studio 2012\Projects\String_Splitting_Tool\String_Splitting_Tool\obj\Debug\String_Splitting_Tool.csprojResolveAssemblyReference.cache
+c:\users\djabon\documents\visual studio 2012\Projects\String_Splitting_Tool\String_Splitting_Tool\obj\Debug\String_Splitting_Tool.Form1.resources
+c:\users\djabon\documents\visual studio 2012\Projects\String_Splitting_Tool\String_Splitting_Tool\obj\Debug\String_Splitting_Tool.Properties.Resources.resources
+c:\users\djabon\documents\visual studio 2012\Projects\String_Splitting_Tool\String_Splitting_Tool\obj\Debug\String_Splitting_Tool.csproj.GenerateResource.Cache
+c:\users\djabon\documents\visual studio 2012\Projects\String_Splitting_Tool\String_Splitting_Tool\obj\Debug\String_Splitting_Tool.exe
+c:\users\djabon\documents\visual studio 2012\Projects\String_Splitting_Tool\String_Splitting_Tool\obj\Debug\String_Splitting_Tool.pdb
